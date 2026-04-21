@@ -1,6 +1,6 @@
 {
   "min_version": 100,
   "latest_version": "1.0.0",
-  "update_message": "Nuova patch disponibile!",
-  "emergency_stop": false
+  "update_url": "https://github.com/tech-felix05/file-JSON-configuration",
+  "message": "Aggiornamento obbligatorio per continuare a giocare!"
 }
