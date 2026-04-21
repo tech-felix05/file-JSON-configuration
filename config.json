@@ -1,6 +1,5 @@
 {
-  "min_version": 100,
-  "latest_version": "1.0.0",
-  "update_url": "https://github.com/tech-felix05/file-JSON-configuration",
-  "message": "Aggiornamento obbligatorio per continuare a giocare!"
+  "version": 1.3,
+  "nuovi_nomi": ["Giorgia", "Anna"],
+  "messaggio_aggiornamento": "Aggiunti nuovi nomi!"
 }
