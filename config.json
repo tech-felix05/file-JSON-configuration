@@ -11,6 +11,14 @@
       "happinessEffect": 5,
       "intelEffect": 0,
       "logMessage": "Il sistema sta leggendo correttamente dalla Release v1.0!"
+    },
+    {
+      "id": "lavoro_part_time",
+      "title": "🍔 Lavoro al Fast Food",
+      "cost": 0.0,
+      "minAge": 16,
+      "happinessEffect": -5,
+      "logMessage": "Hai lavorato al turno di notte. Hai guadagnato 50$!"
     }
   ]
 }
