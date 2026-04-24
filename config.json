@@ -1,12 +1,12 @@
 {
-  "latestVersion": 2,
+  "latestVersion": 1,
   "updateUrl": "https://github.com/tech-felix05/clife-game/raw/main/app-release.apk",
   "activities": [
     {
       "id": "prova",
       "title": "🏋️ TEST",
       "cost": 0.0,
-      "minAge": 14,
+      "minAge": 0,
       "healthEffect": 10,
       "happinessEffect": 5,
       "intelEffect": 0,
