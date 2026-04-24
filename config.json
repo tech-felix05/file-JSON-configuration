@@ -1,6 +1,6 @@
 {
   "latestVersion": 1,
-  "updateUrl": "https://github.com/tech-felix05/clife-game/raw/main/app-release.apk",
+  "updateUrl": "https://github.com/tech-felix05/clife-game/releases/download/v1.0/app-release.apk",
   "activities": [
     {
       "id": "prova",
@@ -10,7 +10,7 @@
       "healthEffect": 10,
       "happinessEffect": 5,
       "intelEffect": 0,
-      "logMessage": "Ti sei allenato e ti senti una roccia!"
+      "logMessage": "Il sistema sta leggendo correttamente dalla Release v1.0!"
     }
   ]
 }
