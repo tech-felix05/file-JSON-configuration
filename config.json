@@ -30,6 +30,31 @@
       "happinessEffect": 20,
       "intelEffect": 2,
       "logMessage": "Hai trovato la pace interiore. La tua felicità vola!"
+    },
+    {
+      "id": "night_club",
+      "title": "🍸 Night Club",
+      "cost": 0.0,
+      "minAge": 14,
+      "healthEffect": -2,
+      "happinessEffect": 2,
+      "logMessage": "🍸 Notte da leoni!"
+    },
+    {
+      "id": "cerca_amici",
+      "title": "🤜🤛 Fai amicizia",
+      "minAge": 3,
+      "healthEffect": 2,
+      "happinessEffect": 2,
+      "logMessage": "🤜🤛 Hai fatto amicizia!"
+    },
+    {
+       "id": "cerca_partner",
+      "title": "❤️ Partner",
+      "minAge": 14,
+      "healthEffect": 2,
+      "happinessEffect": 2,
+      "logMessage": "❤️ Ti sei fidanzato"
     }
   ]
 }
