@@ -1,24 +1,35 @@
 {
   "latestVersion": 2,
-  "updateUrl": "https://github.com/tech-felix05/clife-game/releases/download/v1.0/app-release.apk",
+  "updateUrl": "https://github.com/tech-felix05/clife-game/releases/latest/download/app-release.apk",
   "activities": [
     {
       "id": "prova",
-      "title": "🏋️ TEST",
+      "title": "🏋️ Allenamento TEST",
       "cost": 0.0,
       "minAge": 0,
       "healthEffect": 10,
       "happinessEffect": 5,
       "intelEffect": 0,
-      "logMessage": "Il sistema sta leggendo correttamente dalla Release v1.0!"
+      "logMessage": "Ti sei allenato duramente! Ti senti più forte."
     },
     {
       "id": "lavoro_part_time",
       "title": "🍔 Lavoro al Fast Food",
-      "cost": 0.0,
+      "cost": -50.0,
       "minAge": 16,
+      "healthEffect": -2,
       "happinessEffect": -5,
-      "logMessage": "Hai lavorato al turno di notte. Hai guadagnato 50$!"
+      "logMessage": "Hai lavorato al turno di notte. Hai guadagnato 50$ ma sei stanco!"
+    },
+    {
+      "id": "meditazione",
+      "title": "🧘 Corso di Meditazione",
+      "cost": 30.0,
+      "minAge": 12,
+      "healthEffect": 5,
+      "happinessEffect": 20,
+      "intelEffect": 2,
+      "logMessage": "Hai trovato la pace interiore. La tua felicità vola!"
     }
   ]
 }
