@@ -53,6 +53,12 @@
       "healthEffect": 2,
       "happinessEffect": 2,
       "logMessage": "❤️ Ti sei fidanzato"
+    },
+    {
+       "id": "crimine_test",
+      "title": "🥷 Crimine [TEST, NO FUNZIONANTE]",
+      "minAge": 10,
+      "logMessage": "🥷 TEST FUNZIONANTE"
     }
   ]
 }
