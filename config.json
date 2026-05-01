@@ -1,6 +1,8 @@
 {
   "latestVersion": 11,
   "updateUrl": "https://github.com/tech-felix05/clife-game/releases/latest/download/app-release.apk",
+  "notificationTitle": "🎲 Evento Imprevisto!",
+  "notificationMessage": "È successo qualcosa nella tua vita... entra a vedere!",
   "activities": [
     {
       "id": "prova",
@@ -59,6 +61,48 @@
       "title": "🥷 Crimine [TEST, NO FUNZIONANTE]",
       "minAge": 10,
       "logMessage": "🥷 TEST FUNZIONANTE"
+    }
+  ],
+  "chanceEvents": [
+    {
+      "id": "lotteria_sociale",
+      "text": "Hai vinto un piccolo premio alla lotteria di quartiere!",
+      "minAge": 18,
+      "probability": 0.08,
+      "effects": {
+        "money": 50.0,
+        "happiness": 15.0
+      }
+    },
+    {
+      "id": "influenza",
+      "text": "Ti sei preso una brutta influenza.",
+      "minAge": 3,
+      "probability": 0.12,
+      "effects": {
+        "health": -15.0,
+        "happiness": -10.0
+      }
+    },
+    {
+      "id": "eredita_zii",
+      "text": "Uno zio lontano ti ha lasciato una piccola eredità!",
+      "minAge": 21,
+      "probability": 0.02,
+      "effects": {
+        "money": 1500.0,
+        "happiness": 10.0
+      }
+    },
+    {
+      "id": "libro_interessante",
+      "text": "Hai letto un libro che ti ha aperto la mente.",
+      "minAge": 10,
+      "probability": 0.10,
+      "effects": {
+        "intelligence": 5.0,
+        "happiness": 5.0
+      }
     }
   ]
 }
