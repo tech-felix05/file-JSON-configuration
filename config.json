@@ -82,7 +82,12 @@
     {
       "id": "rehab",
       "title": "🤝 Riabilitazione",
-      "minAge": 14
+      "cost": 500.0,
+      "minAge": 14,
+      "healthEffect": 5,
+      "happinessEffect": 10,
+      "intelEffect": 0,
+      "logMessage": "🤝 Ti sei iscritto a un programma di recupero. La tua lotta contro le dipendenze inizia ora!"
     }
   ],
   "chanceEvents": [
