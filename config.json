@@ -5,18 +5,18 @@
   "notificationMessage": "Test riuscito!",
   "config_gioco": {
       "sostanze": [
-        { "nome": "Cocaina", "emoji": "❄️"}
-        { "nome": "Marijuana", "emoji": "🍁"}
-        { "nome": "LSD", "emoji": "🤯"}
-        { "nome": "Fentanyl", "emoji": "🔵"}
-        { "nome": "Eroina", "emoji": "💉"}
-        { "nome": "Hashish", "emoji": "🍫"}
-        { "nome": "Crack", "emoji": "🥣"}
-        { "nome": "Metanfetamina", "emoji": "🧊"}
-        { "nome": "Alcohol", "emoji": "🥃"}
-        { "nome": "MDMA", "emoji": "🍬"}
-        { "nome": "Steroidi", "emoji": "💉🩸"}
-        { "nome": "Codeina", "emoji": "🥤"}
+        { "nome": "Cocaina", "emoji": "❄️"},
+        { "nome": "Marijuana", "emoji": "🍁"},
+        { "nome": "LSD", "emoji": "🤯"},
+        { "nome": "Fentanyl", "emoji": "🔵"},
+        { "nome": "Eroina", "emoji": "💉"},
+        { "nome": "Hashish", "emoji": "🍫"},
+        { "nome": "Crack", "emoji": "🥣"},
+        { "nome": "Metanfetamina", "emoji": "🧊"},
+        { "nome": "Alcohol", "emoji": "🥃"},
+        { "nome": "MDMA", "emoji": "🍬"},
+        { "nome": "Steroidi", "emoji": "💉🩸"},
+        { "nome": "Codeina", "emoji": "🥤"},
         { "nome": "Ketamina", "emoji": "💊"}
       ]
     },
@@ -82,7 +82,7 @@
     {
       "id": "rehab",
       "title": "🤝 Riabilitazione",
-      "minAge": "14",
+      "minAge": "14"
     }
   ],
   "chanceEvents": [
