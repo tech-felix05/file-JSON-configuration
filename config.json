@@ -82,7 +82,7 @@
     {
       "id": "rehab",
       "title": "🤝 Riabilitazione",
-      "minAge": "14"
+      "minAge": 14
     }
   ],
   "chanceEvents": [
