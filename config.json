@@ -1,8 +1,8 @@
 {
-  "latestVersion": 15,
+  "latestVersion": 16,
   "updateUrl": "https://github.com/tech-felix05/clife-game/releases/latest/download/app-release.apk",
-  "notificationTitle": "🎲 Evento Imprevisto!",
-  "notificationMessage": "È successo qualcosa nella tua vita... entra a vedere!",
+  "notificationTitle": "🎲 Notifica di testing!",
+  "notificationMessage": "Test riuscito!",
   "activities": [
     {
       "id": "prova",
