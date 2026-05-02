@@ -4,7 +4,21 @@
   "notificationTitle": "🎲 Notifica di testing!",
   "notificationMessage": "Test riuscito!",
   "config_gioco": {
-      "sostanze": ["Cocaina", "Marijuana", "Eroina", "Fentanyl", "LSD", "Mushrooms", "Metanfetamina", "Ketamina", "PCB", "Crack", "Alcohol"]
+      "sostanze": [
+        { "nome": "Cocaina", "emoji": "❄️"}
+        { "nome": "Marijuana", "emoji": "🍁"}
+        { "nome": "LSD", "emoji": "🤯"}
+        { "nome": "Fentanyl", "emoji": "🔵"}
+        { "nome": "Eroina", "emoji": "💉"}
+        { "nome": "Hashish", "emoji": "🍫"}
+        { "nome": "Crack", "emoji": "🥣"}
+        { "nome": "Metanfetamina", "emoji": "🧊"}
+        { "nome": "Alcohol", "emoji": "🥃"}
+        { "nome": "MDMA", "emoji": "🍬"}
+        { "nome": "Steroidi", "emoji": "💉🩸"}
+        { "nome": "Codeina", "emoji": "🥤"}
+        { "nome": "Ketamina", "emoji": "💊"}
+      ]
     },
   "activities": [
     {
