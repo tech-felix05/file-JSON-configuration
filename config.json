@@ -3,6 +3,9 @@
   "updateUrl": "https://github.com/tech-felix05/clife-game/releases/latest/download/app-release.apk",
   "notificationTitle": "🎲 Notifica di testing!",
   "notificationMessage": "Test riuscito!",
+  "config_gioco": {
+      "sostanze": ["Cocaina", "Marijuana", "Eroina", "Fentanyl", "LSD", "Mushrooms", "Metanfetamina", "Ketamina", "PCB", "Crack", "Alcohol"]
+    },
   "activities": [
     {
       "id": "prova",
