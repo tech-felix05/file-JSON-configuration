@@ -78,6 +78,11 @@
       "title": "🥷 Crimine [TEST, NO FUNZIONANTE]",
       "minAge": 10,
       "logMessage": "🥷 TEST FUNZIONANTE"
+    },
+    {
+      "id": "rehab",
+      "title": "🤝 Riabilitazione",
+      "minAge": "14",
     }
   ],
   "chanceEvents": [
