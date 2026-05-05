@@ -1,8 +1,8 @@
 {
   "latestVersion": 18,
   "updateUrl": "https://github.com/tech-felix05/clife-game/releases/latest/download/app-release.apk",
-  "notificationTitle": "🚀 Aggiornamento Clife!",
-  "notificationMessage": "Aggiunta logica funzione Night club!",
+  "notificationTitle": "🚀 Ehi!, è da tanto che non giochi :(",
+  "notificationMessage": "Gioca la tua miglio vita!",
   "config_gioco": {
       "sostanze": [
         { "nome": "Cocaina", "emoji": "❄️"},
