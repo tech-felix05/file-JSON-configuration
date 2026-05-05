@@ -17,7 +17,8 @@
         { "nome": "MDMA", "emoji": "🍬"},
         { "nome": "Steroidi", "emoji": "💉🩸"},
         { "nome": "Codeina", "emoji": "🥤"},
-        { "nome": "Ketamina", "emoji": "💊"}
+        { "nome": "Ketamina", "emoji": "💊"},
+        { "nome": "Ashwagandha", "emoji": "😴"}
       ]
     },
   "activities": [
