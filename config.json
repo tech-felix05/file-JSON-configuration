@@ -21,6 +21,17 @@
         { "nome": "Ashwagandha", "emoji": "😴"}
       ]
     },
+  "random_crimes": {
+    "crimes": [
+      { "tipo": "Uccidi", "emoji_crime": "🔪" },
+      { "tipo": "Ruba", "emoji_crime": "👣" },
+      { "tipo": "Bische clandestine", "emoji_crime": "🃏" },
+      { "tipo": "Dark Net", "emoji_crime": "🧅" },
+      { "tipo": "Assumi sicario", "emoji_crime": "🥷" },
+      { "tipo": "Ruba auto", "emoji_crime": "🚗" },
+      { "tipo": "Borseggia", "emoji_crime": "🎒" }
+    ]
+  },
   "activities": [
     {
       "id": "prova",
@@ -76,9 +87,9 @@
     },
     {
        "id": "crimine_test",
-      "title": "🥷 Crimine [TEST, NO FUNZIONANTE]",
+      "title": "🥷 Crimine",
       "minAge": 10,
-      "logMessage": "🥷 TEST FUNZIONANTE"
+      "logMessage": "🥷 Hai commesso un reato"
     },
     {
       "id": "rehab",
