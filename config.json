@@ -1,8 +1,8 @@
 {
   "latestVersion": 19,
   "updateUrl": "https://github.com/tech-felix05/clife-game/releases/latest/download/app-release.apk",
-  "notificationTitle": "🚀 Ehi!, è da tanto che non giochi :(",
-  "notificationMessage": "Gioca la tua miglior vita!",
+  "notificationTitle": "🚀 Nuovo aggiornamento!!",
+  "notificationMessage": "Aggiunte possibilità di commettere crimini a larga scala, aggiunta possibilità di avere figli",
   "config_gioco": {
       "sostanze": [
         { "nome": "Cocaina", "emoji": "❄️"},
